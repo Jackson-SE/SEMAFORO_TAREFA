@@ -1,6 +1,9 @@
 # Clock e Temporizadores
-# TAREFA INDIVIDUAL
-# Unidade 4 | Capítulo 5 – C5O123A
+# Unidade 4 | Capítulo 5 – C5O123A 
+
+Atividade 1: Temporizador periódico  || TAREFA INDIVIDUAL
+
+
 # Residente: Jackson da Silva Carneiro
 
 Repositório em resolução da ATIVIDADE 1
